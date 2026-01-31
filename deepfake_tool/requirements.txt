@@ -1,0 +1,12 @@
+# TrustSentinel Deepfake Detection Engine Dependencies
+# Computer Vision
+opencv-python>=4.8.0
+
+# Face Detection & Mesh
+mediapipe>=0.10.0
+
+# Numerical Computing (vectorized operations)
+numpy>=1.24.0
+
+# Signal Processing (FFT)
+scipy>=1.10.0
