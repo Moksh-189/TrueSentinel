@@ -22,6 +22,10 @@ models/
 backend/deepfake_model_pretrained.pt
 backend/deepfake_model_densenet.pt
 
+# Datasets and Test Media
+test/
+vids/
+
 # IDEs
 .vscode/
 .idea/
